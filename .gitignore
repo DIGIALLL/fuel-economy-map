@@ -1,0 +1,11 @@
+﻿# Большие данные не коммитим
+data/ved/*.csv
+data/ved/*.7z
+data/ved/*.zip
+data/own/*.csv
+
+# Служебные
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
